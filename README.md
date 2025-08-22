@@ -1,28 +1,57 @@
-## Bem-vindo(a) ao meu perfil 😁
+# 👋 Olá, eu sou Leandro Santos  
 
- <div>
-   <a href="https://github.com/LeandrSDEV">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandrSDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrSDEV&layout=compact&langs_count=6&theme=tokyonight"/>
+💻 **Desenvolvedor Full Stack** focado em **ASP.NET Core, C#, SQL, React e Blazor**.  
+🚀 Apaixonado por tecnologia e sempre buscando unir eficiência e inovação nos projetos.  
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
- 
- <br>
- 
-  ### Redes sociais abaixo!
- 
-<div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leandro_0santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-de-jesus-santos-311658223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/LeandrSDEV/LeandrSDEV/blob/output/github-contribution-grid-snake.svg)
+---
 
-</div>
+## 🚀 Tech Stack  
+
+### 💻 Back-end  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+
+### 🎨 Front-end  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+
+### 🗄️ Banco de Dados  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### ⚙️ Outros  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 📂 Projetos em Destaque  
+ 
+🔹 **[Website MVC empresarial](https://github.com/LeandrSDEV/AGSWebsite)** – C# ASP.NET Core MVC + Tradução 
+
+🔹 **[Automação de Processos](https://github.com/LeandrSDEV/JS_Services)** – API ASP.NET Core + BlazorServer + MySQL  
+
+🔹 **[Web POKEMON](https://github.com/LeandrSDEV/projeto-lista-pokemon))** – HTML + CSS 
+
+🔹 **[Sistema de cadastro + Login page](https://github.com/LeandrSDEV/ListaContatosMVC)** – C# ASP.NET Core MVC
+
+---
+
+## 📊 Estatísticas GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandrSDEV&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrSDEV&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-de-jesus-santos-311658223/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandrSDEV)  
+📧 **Email:** leandro22.js@gmail.com  
+
+---
