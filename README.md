@@ -1,57 +1,100 @@
-# 👋 Olá, eu sou Leandro Santos  
+<img src="assets/banner.svg" alt="Leandro de Jesus Santos — Desenvolvedor Backend Java e Spring Boot" width="100%">
 
-💻 **Desenvolvedor Full Stack** focado em **ASP.NET Core, C#, SQL, React e Blazor**.  
-🚀 Apaixonado por tecnologia e sempre buscando unir eficiência e inovação nos projetos.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandro-js-santos/"><img src="https://img.shields.io/badge/LinkedIn-leandro--js--santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leandrsdev.github.io/portfolio-web/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-leandrsdev.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:leandro22.js@gmail.com"><img src="https://img.shields.io/badge/E--mail-leandro22.js%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
----
+## Sobre mim
 
-## 🚀 Tech Stack  
+Construo backends que estão em produção e que pessoas usam todos os dias.
 
-### 💻 Back-end  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- 🏢 **Hoje:** desenvolvedor backend na **Portal Concursos**, em uma plataforma de preparação para concursos públicos com três serviços em **Java 25 + Spring Boot 4**, front em React e site em Astro.
+- 🚀 **Em paralelo:** sócio e desenvolvedor do **[AfiliadoFlow](https://github.com/LeandrSDEV/afiliadoflow-saas)**, SaaS com **500+ clientes** que publica cerca de **8 mil ofertas por dia** no WhatsApp e no Telegram.
+- 🧭 **Antes:** backend de sistemas de margem consignável (C#/.NET) na FASITEC, depois de quatro anos em crédito consignado — entendo a regra de negócio antes de escrever a primeira linha.
+- 🎓 Análise e Desenvolvimento de Sistemas — Estácio (2027).
 
-### 🎨 Front-end  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+## Stack
 
-### 🗄️ Banco de Dados  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,nodejs&theme=dark" alt="Java, Spring, C#, .NET, Python, Node.js"></td>
+  </tr>
+  <tr>
+    <td><b>Dados e infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux,githubactions&theme=dark" alt="PostgreSQL, MySQL, Redis, Docker, Nginx, Linux, GitHub Actions"></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind&theme=dark" alt="React, TypeScript, Vite, Tailwind"></td>
+  </tr>
+</table>
 
-### ⚙️ Outros  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+Também no dia a dia: `Flyway` · `JWT / OAuth2` · `Keycloak` · `n8n` · `Webhooks` · `Celery` · `FastAPI` · `Playwright (E2E)` · `Zabbix` · `Swagger / OpenAPI`
 
----
+## Projetos em destaque
 
-## 📂 Projetos em Destaque  
- 
-🔹 **[Website MVC empresarial](https://github.com/LeandrSDEV/AGSWebsite)** – C# ASP.NET Core MVC + Tradução 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LeandrSDEV/afiliadoflow-saas"><img src="assets/projects/afiliadoflow.png" alt="AfiliadoFlow"></a>
+      <b>AfiliadoFlow</b> — SaaS em produção com 500+ clientes. Coleta ofertas, gera o link de afiliado e publica sozinho no WhatsApp e no Telegram.<br>
+      <sub>Python · Flask · Celery · FastAPI · Node.js · PostgreSQL · Redis · Docker</sub><br>
+      <a href="https://github.com/LeandrSDEV/afiliadoflow-saas">Estudo de caso</a> · <a href="https://www.afiliadoflow.com">Site</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LeandrSDEV/decode-restaurantes"><img src="assets/projects/decode.png" alt="DECODE"></a>
+      <b>DECODE</b> — Sistema para lanchonetes e restaurantes: cardápio, mesas, delivery, PDV, cozinha, fiscal e TEF. Multi-tenant com schema por estabelecimento.<br>
+      <sub>Java 17 · Spring Boot 3.3 · PostgreSQL · Flyway · Redis · WebSocket · React · TypeScript</sub><br>
+      <a href="https://github.com/LeandrSDEV/decode-restaurantes">Estudo de caso</a> · <a href="https://github.com/LeandrSDEV/admin_DecodeBack">API do painel admin</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LeandrSDEV/escola"><img src="assets/projects/escola.png" alt="Gestão Escolar"></a>
+      <b>Gestão Escolar</b> — Vitrine pública da escola e painel administrativo com alunos, turmas e financeiro.<br>
+      <sub>Java 17 · Spring Boot 3.3 · Spring Security · JWT · PostgreSQL · React · TypeScript · Tailwind</sub><br>
+      <a href="https://github.com/LeandrSDEV/escola">Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LeandrSDEV/JSDeposito"><img src="assets/projects/jsdeposito.png" alt="JSDeposito"></a>
+      <b>JSDeposito</b> — Depósito e delivery API-first: vitrine, carrinho anônimo, frete por geolocalização e checkout com PIX.<br>
+      <sub>C# · ASP.NET Core · EF Core · MySQL · JWT · React · TypeScript</sub><br>
+      <a href="https://github.com/LeandrSDEV/JSDeposito">API</a> · <a href="https://github.com/LeandrSDEV/JSDeposito_Front">Front-end</a>
+    </td>
+  </tr>
+</table>
 
-🔹 **[Automação de Processos](https://github.com/LeandrSDEV/JS_Services)** – API ASP.NET Core + BlazorServer + MySQL  
+<details>
+<summary><b>Outros projetos</b></summary>
+<br>
 
-🔹 **[Web POKEMON](https://github.com/LeandrSDEV/projeto-listagem-pokemon)** – HTML + CSS 
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [admin_DecodeFront](https://github.com/LeandrSDEV/admin_DecodeFront) | Painel admin e portal do afiliado do DECODE | React 19 · TypeScript · Vite |
+| [JS_Services](https://github.com/LeandrSDEV/JS_Services) | Automação de arquivos de servidores e beneficiários | .NET 8 · Clean Architecture · Blazor Server · SQL Server |
+| [Projeto-Anime](https://github.com/LeandrSDEV/Projeto-Anime) | API de catálogo com filtros, testes e Docker | .NET · Clean Architecture · xUnit · Docker |
+| [Formulario_Concurso](https://github.com/LeandrSDEV/Formulario_Concurso) | API de cadastro de aprovados com upload de imagem | Java 17 · Spring Boot · PostgreSQL |
+| [First_API](https://github.com/LeandrSDEV/First_API) | API de consulta de CEP | ASP.NET Core · EF Core · SQL Server |
+| [AGSWebsite](https://github.com/LeandrSDEV/AGSWebsite) | Site bilíngue para consultoria de geociências (EUA) | ASP.NET Core MVC |
+| [portfolio-web](https://github.com/LeandrSDEV/portfolio-web) | Meu portfólio | React · TypeScript · Vite |
 
-🔹 **[Sistema de cadastro + Login page](https://github.com/LeandrSDEV/ListaContatosMVC)** – C# ASP.NET Core MVC
+</details>
 
----
+## Trajetória
 
-## 📊 Estatísticas GitHub  
+| Período | Onde | O quê |
+| --- | --- | --- |
+| 2026 — hoje | Portal Concursos | Desenvolvedor Backend · Java 25, Spring Boot 4, React, Zabbix |
+| 2026 — hoje | AfiliadoFlow | Sócio e Desenvolvedor · Python, Node.js, PostgreSQL, Redis |
+| 2023 — 2025 | FASITEC | Desenvolvedor Backend · C#, ASP.NET MVC, SQL Server |
+| 2019 — 2023 | Crédito consignado e atendimento bancário | Análise de crédito e cadastro — a base de negócio que uso no código |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandrSDEV&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrSDEV&layout=compact&theme=tokyonight)  
+## Atividade
 
----
-
-## 🌐 Contato  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-js-santos/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandrSDEV)  
-📧 **Email:** leandro22.js@gmail.com  
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandrSDEV/LeandrSDEV/output/github-snake-dark.svg">
+  <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/LeandrSDEV/LeandrSDEV/output/github-snake.svg">
+</picture>

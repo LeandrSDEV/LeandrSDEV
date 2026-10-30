@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Leandro de Jesus Santos — Desenvolvedor Backend Java e Spring Boot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a111d"/>
+      <stop offset="0.6" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#0b1622"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0.05" r="0.55">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity="0.13"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.65" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="dotsMask"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+    <clipPath id="typing">
+      <rect x="64" y="196" height="40" width="0">
+        <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.45;0.9;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="300" fill="url(#dots)" mask="url(#dotsMask)"/>
+
+  <!-- texto principal -->
+  <rect x="64" y="58" width="48" height="4" rx="2" fill="#38bdf8"/>
+  <text x="64" y="116" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" fill="#f8fafc">Leandro de Jesus Santos</text>
+  <text x="64" y="158" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#cbd5e1">Desenvolvedor Backend · <tspan fill="#38bdf8" font-weight="600">Java</tspan> &amp; <tspan fill="#38bdf8" font-weight="600">Spring Boot</tspan></text>
+
+  <!-- linha de terminal digitando -->
+  <g font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="19">
+    <g clip-path="url(#typing)">
+      <text x="64" y="222" fill="#94a3b8"><tspan fill="#34d399">$</tspan> deploy <tspan fill="#38bdf8">--stack</tspan> java spring-boot postgresql docker</text>
+    </g>
+    <rect x="64" y="206" width="11" height="21" fill="#38bdf8">
+      <animate attributeName="x" values="64;624;624;64" keyTimes="0;0.45;0.9;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="64" y="262" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#64748b">APIs em produção · integrações · SaaS com 500+ clientes</text>
+
+  <!-- trecho de código decorativo -->
+  <g font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#94a3b8" fill-opacity="0.55">
+    <text x="750" y="92"><tspan fill="#38bdf8" fill-opacity="0.8">@RestController</tspan></text>
+    <text x="750" y="116"><tspan fill="#c084fc" fill-opacity="0.8">public class</tspan> PedidoController {</text>
+    <text x="770" y="140"><tspan fill="#38bdf8" fill-opacity="0.8">@PostMapping</tspan>("/pedidos")</text>
+    <text x="770" y="164">ResponseEntity&lt;PedidoDTO&gt; criar(</text>
+    <text x="790" y="188"><tspan fill="#38bdf8" fill-opacity="0.8">@Valid</tspan> <tspan fill="#38bdf8" fill-opacity="0.8">@RequestBody</tspan> NovoPedido req) {</text>
+    <text x="810" y="212"><tspan fill="#c084fc" fill-opacity="0.8">return</tspan> ResponseEntity.ok(service.criar(req));</text>
+    <text x="770" y="236">}</text>
+    <text x="750" y="260">}</text>
+  </g>
+</svg>
