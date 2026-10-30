@@ -35,7 +35,7 @@
 
 🔹 **[Automação de Processos](https://github.com/LeandrSDEV/JS_Services)** – API ASP.NET Core + BlazorServer + MySQL  
 
-🔹 **[Web POKEMON](https://github.com/LeandrSDEV/projeto-lista-pokemon))** – HTML + CSS 
+🔹 **[Web POKEMON](https://github.com/LeandrSDEV/projeto-listagem-pokemon)** – HTML + CSS 
 
 🔹 **[Sistema de cadastro + Login page](https://github.com/LeandrSDEV/ListaContatosMVC)** – C# ASP.NET Core MVC
 
@@ -50,7 +50,7 @@
 
 ## 🌐 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-de-jesus-santos-311658223/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-js-santos/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandrSDEV)  
 📧 **Email:** leandro22.js@gmail.com  
 
